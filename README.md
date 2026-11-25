@@ -6,3 +6,5 @@ Note: Planning on GitHub has been put on hiatus due to incompatabilities. The ga
 
 ## Status update
 **This repository is outdated.** The build and plans reflected here are at least 5 years old, as development has since been shared elsewhere. An **HD remake** of the game is currently in the works.
+
+The last version documented in this repository is **Alpha 1.0.3** (released around August-October 2020).
